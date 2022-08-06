@@ -1,0 +1,15 @@
+.stats-section-container{
+  transform: translateX(-3.2rem);
+  @media (min-width: 768px) {
+    transform: translateX(-3.5rem);
+  }
+  h4 {
+    transform: translateY(-64%);
+  }
+}
+
+.stats-text{
+  font-size: 1.2rem;
+}
+
+

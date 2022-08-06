@@ -1,0 +1,43 @@
+//Variables
+$spacer: 1rem;
+$spacers: (
+  0: 0,
+  1: $spacer / 4,
+  2: $spacer / 2,
+  3: $spacer,
+  4: $spacer * 1.5,
+  5: $spacer * 3,
+  6: $spacer * 4.5,
+  7: $spacer * 7.0,
+  8: $spacer * 10,
+);
+
+//Imports
+@import "../../node_modules/bootstrap/scss/bootstrap";
+@import "../components/image_slider/image-slider";
+@import "../components/service-section/service-section";
+@import "../components/feature-section/feature-icon";
+@import "../components/stats-section/stats-section";
+@import "../components/sweeper-section/sweeper-section";
+@import "../components/contact-section/contact-section";
+@import "../components/navbar-section/navbar-section";
+@import "../components/footer-section/footer-section";
+@import "../components/dsgvo/dsgvo";
+
+.home-screen-section {
+  height: 120vh;
+  position: relative;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/homescreen.jpg");
+  background-position: center;
+  object-fit: cover;
+
+  h1 {
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 8vw;
+    text-align: center;
+    color: white;
+  }
+}
