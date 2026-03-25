@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/strassenreinigung-borth-homepage/static/css/main.daf17ef8.chunk.css",
+    "main.js": "/strassenreinigung-borth-homepage/static/js/main.ec646842.chunk.js",
+    "main.js.map": "/strassenreinigung-borth-homepage/static/js/main.ec646842.chunk.js.map",
+    "runtime-main.js": "/strassenreinigung-borth-homepage/static/js/runtime-main.179d6475.js",
+    "runtime-main.js.map": "/strassenreinigung-borth-homepage/static/js/runtime-main.179d6475.js.map",
+    "static/js/2.28d17af1.chunk.js": "/strassenreinigung-borth-homepage/static/js/2.28d17af1.chunk.js",
+    "static/js/2.28d17af1.chunk.js.map": "/strassenreinigung-borth-homepage/static/js/2.28d17af1.chunk.js.map",
+    "index.html": "/strassenreinigung-borth-homepage/index.html",
+    "static/css/main.daf17ef8.chunk.css.map": "/strassenreinigung-borth-homepage/static/css/main.daf17ef8.chunk.css.map",
+    "static/js/2.28d17af1.chunk.js.LICENSE.txt": "/strassenreinigung-borth-homepage/static/js/2.28d17af1.chunk.js.LICENSE.txt",
+    "static/media/hochdruck_nachher.2c2fc9b3.jpg": "/strassenreinigung-borth-homepage/static/media/hochdruck_nachher.2c2fc9b3.jpg",
+    "static/media/hochdruck_vorher.2c3bb76a.jpg": "/strassenreinigung-borth-homepage/static/media/hochdruck_vorher.2c3bb76a.jpg",
+    "static/media/main.css": "/strassenreinigung-borth-homepage/static/media/homescreen.abd2dde1.jpg",
+    "static/media/laub_nachher.a18e473f.jpg": "/strassenreinigung-borth-homepage/static/media/laub_nachher.a18e473f.jpg",
+    "static/media/laub_vorher.e5ef2caf.jpg": "/strassenreinigung-borth-homepage/static/media/laub_vorher.e5ef2caf.jpg",
+    "static/media/map.c4c60e02.jpg": "/strassenreinigung-borth-homepage/static/media/map.c4c60e02.jpg",
+    "static/media/sweeper_2019.c9d1a5f4.jpg": "/strassenreinigung-borth-homepage/static/media/sweeper_2019.c9d1a5f4.jpg",
+    "static/media/sweeper_2020.51c26c0a.jpg": "/strassenreinigung-borth-homepage/static/media/sweeper_2020.51c26c0a.jpg",
+    "static/media/sweeper_2025.945ddf1e.jpg": "/strassenreinigung-borth-homepage/static/media/sweeper_2025.945ddf1e.jpg",
+    "static/media/wildkraut_nachher.d4316ba3.jpg": "/strassenreinigung-borth-homepage/static/media/wildkraut_nachher.d4316ba3.jpg",
+    "static/media/wildkraut_vorher.b0aca193.jpg": "/strassenreinigung-borth-homepage/static/media/wildkraut_vorher.b0aca193.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.179d6475.js",
+    "static/js/2.28d17af1.chunk.js",
+    "static/css/main.daf17ef8.chunk.css",
+    "static/js/main.ec646842.chunk.js"
+  ]
+}
